@@ -1,4 +1,3 @@
-//import fs
 const fs = require('fs');
 const input = process.argv[2];
 
